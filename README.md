@@ -23,7 +23,6 @@ Please send any questions or concerns to katrina.hirsch@gmail.com.
 ## Technologies Used
 
 * HTML
-* CSS
 * JavaScript
 
 ### License
